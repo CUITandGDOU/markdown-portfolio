@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- [] 无忧无虑
+- [] 蓝天白云
+- [] 清风和煦
+- [] 艳阳高照
+- [] 阴风怒吼

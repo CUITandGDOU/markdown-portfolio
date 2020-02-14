@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- *ps*
+- _computer office work_
+- _potetry is my **favorate**_

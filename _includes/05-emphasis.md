@@ -1,0 +1,3 @@
+- *ps*
+- _computer office work_
+- _potetry is my **favorate**_
